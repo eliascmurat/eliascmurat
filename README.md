@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Hi, my name is Elias de Camargo Murat, I'm 17 years old and from Brazil, I'm a student at Etec Fernando Prestes and a beginner programmer, always wanting to learn more and overcome any challenge I see ahead. Besides studying in an integrated period I also always try to study in online platforms (Digital Innovation One, Dankicode, Alura...), always trying to learn even more 😁.
+Hi, my name is Elias de Camargo Murat, I am 17 years old and I am Brazilian, I love to program and learn new technologies, solve problems and challenges.
 
 ### Contact
 
