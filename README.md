@@ -8,6 +8,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-4b4b4b.svg?logo=Java&style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-4b4b4b.svg?logo=c-sharp&style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-4b4b4b.svg?logo=python&style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Flutter-4b4b4b.svg?logo=Flutter&style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Xamarin-4b4b4b.svg?logo=Xamarin&style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-4b4b4b.svg?logo=Html5&style=flat-square&logoColor=white"/>
