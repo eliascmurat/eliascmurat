@@ -27,6 +27,6 @@
 
 <br>
 
-<h2 align="center">Stats</h2>
+<h2 align="center">More info / Stats</h2>
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=EliasMurat&show_icons=true&theme=dark"/>
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMurat&layout=compact&show_icons=true&theme=dark"/>
