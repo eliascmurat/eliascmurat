@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center">Programming Languages / Frameworks</h2>
+<h2 align="center">Programming Languages | Frameworks</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-4b4b4b.svg?logo=Java&style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-4b4b4b.svg?logo=c-sharp&style=flat-square&logoColor=white"/>
@@ -27,6 +27,6 @@
 
 <br>
 
-<h2 align="center">More info / Stats</h2>
+<h2 align="center">More info | Stats</h2>
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=EliasMurat&show_icons=true&theme=dark"/>
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMurat&layout=compact&show_icons=true&theme=dark"/>
