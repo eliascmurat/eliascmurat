@@ -1,10 +1,10 @@
 <h1 align="center">Hello World</h1>
 
-<h4 align="center">Hi, my name is Elias de Camargo Murat, I am 18 years old and I am Brazilian, I love to program and learn new technologies, solve problems and challenges. I think the IT area is incredible, I believe that together with other professionals, we can change the world.</h4>
+<h3 align="center">Hi, my name is Elias de Camargo Murat, I am 18 years old and I am Brazilian, I love to program and learn new technologies, solve problems and challenges. I think the IT area is incredible, I believe that together with other professionals, we can change the world.</h3>
 
 <br>
 
-<h3 align="center">MY SKILLS</h3>
+<h2 align="center">MY SKILLS</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-4b4b4b.svg?logo=Java&style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Flutter-4b4b4b.svg?logo=Flutter&style=flat-square&logoColor=white"/>
@@ -16,13 +16,13 @@
 
 <br>
 
-<h3 align="center">CONTACT</h3>
+<h2 align="center">CONTACT</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/elias-murat-41ba691a8/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-4b4b4b.svg?logo=linkedin&style=flat-square&logoColor=white"></a>
 </p>
 
 <br>
 
-<h3 align="center">STATS</h3>
+<h2 align="center">STATS</h2>
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=EliasMurat&show_icons=true&theme=dark"/>
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMurat&layout=compact&show_icons=true&theme=dark"/>
