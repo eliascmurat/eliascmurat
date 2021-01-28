@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center">MY SKILLS</h2>
+<h2 align="center">Programming Languages / Frameworks</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-4b4b4b.svg?logo=Java&style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-4b4b4b.svg?logo=c-sharp&style=flat-square&logoColor=white"/>
@@ -19,13 +19,14 @@
 
 <br>
 
-<h2 align="center">CONTACT</h2>
+<h2 align="center">Contact</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/elias-murat-41ba691a8/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-4b4b4b.svg?logo=linkedin&style=flat-square&logoColor=white"></a>
+<a href="mailto:elias-muraat@outlook.com"><img src="https://img.shields.io/badge/Outlook-4b4b4b?logo=microsoft-outlook&style=flat-square&logoColor=white" /></a>
 </p>
 
 <br>
 
-<h2 align="center">STATS</h2>
+<h2 align="center">Stats</h2>
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=EliasMurat&show_icons=true&theme=dark"/>
 <p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMurat&layout=compact&show_icons=true&theme=dark"/>
