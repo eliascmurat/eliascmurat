@@ -1,6 +1,10 @@
 <h1 align="center">Hello World</h1>
 
-<h4 align="center">Hi, my name is Elias de Camargo Murat, I am 18 years old and I am Brazilian, I love to program and learn new technologies, solve problems and challenges. I think the IT area is incredible, I believe that together with other professionals, we can change the world.</h4>
+<h4 align="center">Hi, my name is Elias de Camargo Murat, I am 18 years old , I love to program and learn new technologies, solve problems and challenges. I think the IT area is incredible, I believe that together with other professionals, we can change the world.</h4>
+
+<h4 align="center">Hi, my name is Elias Murat, I'm 18 years old and I am Brazilian. I am graduated in Computer Technician Integrated to High School at Etec Fernando Prestes. I am taking an online degree in Internet Systems at FMU. 
+I love to program and learn new technologies, solve problems and challenges. I think the IT area is incredible, I believe that together with other professionals, we can change the world.</h4>
+
 
 <br>
 
