@@ -24,7 +24,6 @@ I love to program and learn new technologies, solve problems and challenges. I t
 <h2 align="center">Contact</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/elias-murat-41ba691a8/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-4b4b4b.svg?logo=linkedin&style=flat-square&logoColor=white"></a>
-<a href="mailto:elias-murat@outlook.com"><img src="https://img.shields.io/badge/Outlook-4b4b4b?logo=microsoft-outlook&style=flat-square&logoColor=white" /></a>
 </p>
 
 <br>
