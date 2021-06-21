@@ -31,3 +31,6 @@ I love to program and learn new technologies, solve problems and challenges. I t
 <h2 align="center">More info | Stats</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EliasMurat&show_icons=true&theme=dark"/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMurat&layout=compact&show_icons=true&theme=dark"/>
+
+![Snake animation]
+(https://github.com/EliasMurat/EliasMurat/blob/output/github-contribution-grid-snake.svg)
