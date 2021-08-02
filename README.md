@@ -1,6 +1,6 @@
 ## Hello World, I'am Elias Murat
 - 💻 Full Stack Developer
-- 👨‍💻 Working at <a href="https://www.linkedin.com/company/tantto-br/">TANNTO_BR</a>.
+- 👨‍💻 Working at <a href="http://www.tantto.com.br/pt/#/home">TANTTO_BR</a>.
 - 👨‍🎓 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/">Etec Fernando Prestes</a>.
 - 📚 I am taking an online degree in Internet Systems at <a href="https://portal.fmu.br/">FMU</a>.
 - 🌱 Studying: PHP, .NET and TypeScript.
