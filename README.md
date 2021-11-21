@@ -42,3 +42,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasMurat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMurat&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<br>
+	
+> ⚠ The graphics may not correctly represent the most used languages or the total of activities. 
