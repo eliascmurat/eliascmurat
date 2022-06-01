@@ -1,9 +1,9 @@
 ## Hello World, I'am Elias Murat
 - 💻 Full Stack Developer
-- 👨‍💻 I'm currently working at <a href="http://www.tantto.com.br/pt/#/home" target="_blank">TANTTO_BR</a>.
+- 👨‍💻 I'm Early Associates at <a href="https://www.ibm.com/br-pt" target="_blank">IBM</a>.
 - 👨‍🎓 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank">Etec Fernando Prestes</a> (2018 - 2020).
 - 📚 I’m currently taking in online degree in Internet Systems at <a href="https://portal.fmu.br/" target="_blank">FMU</a> (2021 - 2023).
-- 🌱 I’m currently learning: Spring Boot, .NET and TypeScript.
+- 🌱 I’m currently learning: Microservices, TDD, Design Patterns.
 
 ##
 
