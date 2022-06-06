@@ -1,9 +1,8 @@
 ## Hello World, I'am Elias Murat
-- 💻 Full Stack Developer
 - 👨‍💻 I'm Early Associates at <a href="https://www.ibm.com/br-pt" target="_blank">IBM</a>.
 - 👨‍🎓 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank">Etec Fernando Prestes</a> (2018 - 2020).
 - 📚 I’m currently taking in online degree in Internet Systems at <a href="https://portal.fmu.br/" target="_blank">FMU</a> (2021 - 2023).
-- 🌱 I’m currently learning: Microservices, TDD, Design Patterns.
+- 🌱 Learning: Microservices, TDD, Design Patterns.
 
 ##
 
@@ -15,9 +14,7 @@
   <img align="center" alt="EliasMurat-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="EliasMurat-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="EliasMurat-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="EliasMurat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="EliasMurat-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="EliasMurat-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="EliasMurat-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="EliasMurat-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="EliasMurat-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
