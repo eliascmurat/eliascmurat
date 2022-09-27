@@ -1,6 +1,6 @@
 ## Hello World, I'am Elias Murat
 - 👨‍💻 I'm Early Associate at <a href="https://www.ibm.com/br-pt" target="_blank" rel="nofollow">IBM</a>.
-- 👨‍🎓 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank" rel="nofollow">Etec Fernando Prestes</a> (2018 - 2020).
+- 🐊 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank" rel="nofollow">Etec Fernando Prestes</a> (2018 - 2020).
 - 📚 I’m currently taking in online degree in Internet Systems at <a href="https://portal.fmu.br/" target="_blank" rel="nofollow">FMU</a> (2021 - 2023).
 - 🌱 Learning: Java, Sprign and Microservices.
 - ⚡ Fun fact: Yu Yu Hakusho, Hunter x Hunter and One Piece is my favorites animes.
