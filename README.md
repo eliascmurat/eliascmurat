@@ -3,7 +3,7 @@
 - 🐊 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank" rel="nofollow">Etec Fernando Prestes</a> (2018 - 2020).
 - 📚 I’m currently taking in online degree in Internet Systems at <a href="https://portal.fmu.br/" target="_blank" rel="nofollow">FMU</a> (2021 - 2023).
 - 🌱 Learning: Java, Sprign and Microservices.
-- ⚡ Fun fact: Yu Yu Hakusho, Hunter x Hunter and One Piece is my favorites animes.
+- ⚡ Fun fact: Yu Yu Hakusho, Hunter x Hunter and One Piece are my favorites animes.
 
 ##
 
