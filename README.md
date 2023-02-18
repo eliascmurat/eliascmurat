@@ -3,7 +3,10 @@
 - 🐊 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank" rel="nofollow">Etec Fernando Prestes</a> (2018 - 2020).
 - 🎓 I am currently undertaking two graduations, Internet Systems at <a href="https://portal.fmu.br/" target="_blank" rel="nofollow">FMU</a> (2021 - 2023) and Digital Games at <a href="https://fiap.com.br/" target="_blank" rel="nofollow">FIAP</a> (2023 - 2025).
 - 📚 Learning: DevOps and Cloud Computing.
-- ⚡ Fun fact: Yu Yu Hakusho, Hunter x Hunter and One Piece are my favorites animes.
+- ⚡ Fun fact:
+	- Tactics Ogre: The Knight of Lodis is my favorite game,
+	- Yu Yu Hakusho, Hunter x Hunter and Kiseijū are my favorites animes,
+	- Leviathan Trilogy (by Scott Westerfeld) are my favorite books.
 
 ##
 
