@@ -28,16 +28,23 @@
   </a>
 </div>
 
-[comment]: <> (##)
+##
 
-[comment]: <> (### More info:)
-[comment]: <> (<div>)
-[comment]: <> (  <a href="https://github.com/EliasMurat">)
-[comment]: <> (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasMurat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>)
-[comment]: <> (    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMurat&layout=compact&langs_count=7&theme=dark"/>)
-[comment]: <> (  </a>)
-[comment]: <> (</div>)
+### More info:
 
-[comment]: <> (<br>)
+<div>
+	<a href="https://github.com/EliasMurat">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasMurat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMurat&layout=compact&langs_count=7&theme=dark"/>
+	</a>
+</div>
+
+<br>
 	
-[comment]: <> (> ⚠ The graphics may not correctly represent the most used languages or the total of activities. )
+> ⚠ The graphics may not correctly represent the most used languages or the total of activities.
+
+##
+
+<a href="https://imgur.com/NmFwvJV"><img src="https://i.imgur.com/NmFwvJV.gif" title="source: imgur.com" /></a>
+
+> Thanks for reading... :D
