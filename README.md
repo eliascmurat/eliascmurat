@@ -5,7 +5,7 @@
 - 📚 Learning: DevOps and Cloud Computing.
 - ⚡ Fun fact:
 	- Tactics Ogre: The Knight of Lodis is my favorite game,
-	- Yu Yu Hakusho, Hunter x Hunter and Kiseijū are my favorites animes,
+	- Yu Yu Hakusho, Hunter x Hunter and One piece are my favorites animes,
 	- Leviathan Trilogy (by Scott Westerfeld) are my favorite books.
 
 ##
