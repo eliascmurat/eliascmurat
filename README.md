@@ -11,7 +11,7 @@
 ##
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,maven,hibernate,aws,postgres,mysql,mongodb,firebase,sqlite,docker,kubernetes,jenkins,grafana,prometheus&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,flutter,c,cpp,cs,java,linux,aws,docker,kubernetes,jenkins,postgres,mysql,mongodb,firebase,sqlite,grafana,prometheus,unity,unreal,blender&perline=5)](https://skillicons.dev)
 
 ##
 
