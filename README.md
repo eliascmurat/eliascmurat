@@ -1,7 +1,7 @@
 ## Hello World, I'am Elias Murat
 - 👨‍💻 I'm Early Associate at <a href="https://www.ibm.com/br-pt" target="_blank" rel="nofollow">IBM</a>.
 - 🐊 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank" rel="nofollow">Etec Fernando Prestes</a> (2018 - 2020).
-- 🎓 I am currently undertaking two graduations, Internet Systems at <a href="https://portal.fmu.br/" target="_blank" rel="nofollow">FMU</a> (2021 - 2023) and Digital Games at <a href="https://fiap.com.br/" target="_blank" rel="nofollow">FIAP</a> (2023 - 2025).
+- 🎓 I am currently undertaking two graduations, Internet Systems at <a href="https://portal.fmu.br/" target="_blank" rel="nofollow">FMU</a> (2021 - 2023) and Digital Games at <a href="https://fiap.com.br/" target="_blank" rel="nofollow">FIAP</a> (2023 - 2024).
 - 📚 Learning: DevOps and Cloud Computing.
 - ⚡ Fun fact:
 	- Tactics Ogre: The Knight of Lodis is my favorite game,
@@ -10,7 +10,7 @@
 
 ##
 
-### My Skills:
+### Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,flutter,c,cpp,cs,java,blender,unity,unreal,grafana,prometheus,postgres,mysql,mongodb,firebase,sqlite,linux,aws,docker,kubernetes,jenkins&perline=5)](https://skillicons.dev)
 
 ##
@@ -27,21 +27,20 @@
 
 ##
 
-### More info:
+### Stats:
+![](https://komarev.com/ghpvc/?username=eliascmurat&label=👁️&color=151515)
 
-<div>
-	<a href="https://github.com/eliascmurat">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliascmurat&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascmurat&layout=compact&langs_count=7&theme=dark"/>
-	</a>
-</div>
-
-<br>
-	
-> ⚠ The graphics may not correctly represent the most used languages or the total of activities.
+<a href="https://github.com/eliascmurat">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=eliascmurat&include_all_commits=true&count_private=true&theme=dark" />
+</a>
+<a href="https://github.com/eliascmurat">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascmurat&hide=assembly,pascal,pawn,makefile&layout=compact&langs_count=5&theme=dark" />
+</a>
 
 ##
 
 <a href="https://imgur.com/NmFwvJV"><img src="https://i.imgur.com/NmFwvJV.gif" title="source: imgur.com" /></a>
 
 > Thanks for reading... :D
+
+##
