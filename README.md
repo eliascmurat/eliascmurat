@@ -34,7 +34,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=eliascmurat&include_all_commits=true&count_private=true&theme=dark" />
 </a>
 <a href="https://github.com/eliascmurat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascmurat&hide=assembly,pascal,pawn,makefile&layout=compact&langs_count=5&theme=dark" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliascmurat&hide=assembly,pascal,pawn,makefile&layout=compact&langs_count=6&theme=dark" />
 </a>
 
 ##
