@@ -1,5 +1,5 @@
 ## Hello World, I'am Elias Murat
-- 👨‍💻 I'm Early Associate at <a href="https://www.ibm.com/br-pt" target="_blank" rel="nofollow">IBM</a>.
+- 👨‍💻 I'm Associate at <a href="https://www.ibm.com/br-pt" target="_blank" rel="nofollow">IBM</a>.
 - 🐊 Graduated in Computer Technician Integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank" rel="nofollow">Etec Fernando Prestes</a> (2018 - 2020).
 - 🎓 I am currently undertaking two graduations, Internet Systems at <a href="https://portal.fmu.br/" target="_blank" rel="nofollow">FMU</a> (2021 - 2023) and Digital Games at <a href="https://fiap.com.br/" target="_blank" rel="nofollow">FIAP</a> (2023 - 2024).
 - 📚 Learning: DevOps and Cloud Computing.
