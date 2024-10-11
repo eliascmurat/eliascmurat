@@ -5,7 +5,7 @@
 - 📚 Currently studying Digital Games at <a href="https://fiap.com.br/" target="_blank" rel="nofollow">FIAP</a> (2023 - 2024).
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,lua,java,angular,flutter,linux,docker,kubernetes,jenkins,unity,unreal,blender,gimp&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,lua,java,angular,flutter,unreal,unity,blender,linux,docker,kubernetes,jenkins&perline=5)](https://skillicons.dev)
 
 ##
 
