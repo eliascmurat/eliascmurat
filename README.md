@@ -1,8 +1,7 @@
 ## Hello World, I'am Elias Murat
 - 👨‍💻 Working at <a href="https://www.ibm.com/br-pt" target="_blank" rel="nofollow">IBM</a>.
 - 🐊 Completed Technician Course in Computer Science integrated to High School at <a href="https://www.etecfernandoprestes.com.br/" target="_blank" rel="nofollow">Etec Fernando Prestes</a> (2018 - 2020).
-- 🎓 Graduated in Internet Systems from <a href="https://portal.fmu.br/" target="_blank" rel="nofollow">FMU</a> (2021 - 2023)
-- 📚 Currently studying Digital Games at <a href="https://fiap.com.br/" target="_blank" rel="nofollow">FIAP</a> (2023 - 2024).
+- 🎓 Graduated in Internet Systems from <a href="https://portal.fmu.br/" target="_blank" rel="nofollow">FMU</a> (2021 - 2023) and Digital Games at <a href="https://fiap.com.br/" target="_blank" rel="nofollow">FIAP</a> (2023 - 2024).
 
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,lua,java,angular,flutter,unreal,unity,blender,linux,docker,kubernetes,jenkins&perline=5)](https://skillicons.dev)
