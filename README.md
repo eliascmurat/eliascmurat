@@ -3,7 +3,7 @@
 - 👨‍💻 Currently working at [IBM](https://www.ibm.com/br-pt).
 - 🐊 Completed the Technician Course in Computer Science integrated with High School at [Etec Fernando Prestes](https://www.etecfernandoprestes.com.br/) (2018–2020).
 - 🎓 Graduated in Internet Systems from [FMU](https://portal.fmu.br/) (2021–2023) and Digital Games from [FIAP](https://fiap.com.br/) (2023–2024).
-- 🥊 Fun Fact: When I'm not coding, I'm probably sparring — I train **Kickboxing** and **Muay Thai**.  
+- 🥊 Fun Fact: When I'm not coding, I'm probably sparring — I train **BJJ** and **Muay Thai**.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yes, I fight bugs... and people. 😜
 
 ---
