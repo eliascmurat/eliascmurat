@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tools
-[![My Tools](https://go-skill-icons.vercel.app/api/icons?i=idea,webstorm,dbeaver,insomnia,blender,gimp,audacity,obs,davinci&perline=9)](https://skillicons.dev)
+[![My Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,dbeaver,insomnia,blender,gimp,audacity,obs,davinci&perline=9)](https://skillicons.dev)
 
 ---
 
